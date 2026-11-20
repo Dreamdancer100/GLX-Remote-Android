@@ -21,6 +21,22 @@
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Start screen with GLX ID and password
+
+<p align="center"><img src="screenshots/01.png" alt="Start screen with GLX ID and password" width="850"></p>
+
+### 2️⃣ Session with chat
+
+<p align="center"><img src="screenshots/02.png" alt="Session with chat" width="850"></p>
+
+### 3️⃣ Connection request
+
+<p align="center"><img src="screenshots/03.png" alt="Connection request" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Help on the phone from far away:** The helper sees your phone screen on the PC and solves problems with apps and settings.

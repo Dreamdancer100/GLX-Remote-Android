@@ -21,6 +21,22 @@
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Startbildschirm mit GLX-ID und Passwort
+
+<p align="center"><img src="screenshots/01.png" alt="Startbildschirm mit GLX-ID und Passwort" width="850"></p>
+
+### 2️⃣ Sitzung mit Chat
+
+<p align="center"><img src="screenshots/02.png" alt="Sitzung mit Chat" width="850"></p>
+
+### 3️⃣ Verbindungsanfrage
+
+<p align="center"><img src="screenshots/03.png" alt="Verbindungsanfrage" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Hilfe am Handy aus der Ferne:** Der Helfer sieht deinen Handybildschirm am PC und löst Probleme mit Apps und Einstellungen.
