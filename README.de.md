@@ -21,6 +21,30 @@
 
 ---
 
+## 📖 Über GLX Remote Android
+
+### Fernhilfe für Android-Handys
+
+GLX Remote Android bringt Fernhilfe auf Android-Handys und -Tablets. Eine Vertrauensperson mit GLX Remote Windows am PC sieht den Bildschirm deines Handys und kann es bedienen, als hielte sie es selbst in der Hand. Ideal für Eltern und Großeltern, die bei einer App oder Einstellung nicht weiterkommen.
+
+### Einfach verbinden
+
+Du liest GLX-ID und Passwort in der App ab, gibst sie weiter und bestätigst die Verbindung am Handy. Das ist alles. Während der Sitzung könnt ihr chatten, und du kannst sie jederzeit beenden.
+
+### Bedienung mit der Maus
+
+Der Helfer tippt per Mausklick, öffnet mit Rechtsklick Kontextmenüs, geht mit der Zurück-Taste der Maus zurück und scrollt mit dem Mausrad. Die App läuft im Hoch- und Querformat und übernimmt das Design vom Programm des Helfers.
+
+### Sicher und privat
+
+Jede Verbindung braucht ID, Passwort und deine Bestätigung. Über das Internet läuft die Verbindung verschlüsselt über den GLX-Server, im selben Netz auch direkt. Die Bildschirmfreigabe nutzt die Android-Bildschirmaufnahme, die Steuerung läuft nur während einer von dir erlaubten Sitzung über die Android-Bedienungshilfen.
+
+### Kostenlos
+
+GLX Remote Android ist kostenlos und ohne Werbung, auf Deutsch und Englisch. Der Helfer nutzt GLX Remote Windows.
+
+---
+
 ## 📸 Überblick & Screenshots
 
 ### 1️⃣ Startbildschirm mit GLX-ID und Passwort
